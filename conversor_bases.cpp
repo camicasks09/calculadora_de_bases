@@ -8,7 +8,7 @@ int main() {
     do {
         cout << "\n===== Conversor de bases =====\n";
         cout << "1 - Converter numero entre bases (2 a 16)\n";
-        cout << "2 - Calculadora em uma base (2 a 16)\n";
+        cout << "2 - Escolha como converter (2 a 16)\n";
         cout << "0 - Sair\n";
         cout << "Opcao: ";
         cin >> opcao;
