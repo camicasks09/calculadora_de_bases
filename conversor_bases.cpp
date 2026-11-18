@@ -1,4 +1,4 @@
-#include <iostream>
+ #include <iostream>
 
 using namespace std;
 
@@ -6,7 +6,7 @@ int main() {
     int opcao;
 
     do {
-        cout << "\n===== Conversor de bases =====\n";
+        cout << "\n===== Conversor de Bases =====\n";
         cout << "1 - Converter numero entre bases (2 a 16)\n";
         cout << "2 - Escolha como converter (2 a 16)\n";
         cout << "0 - Sair\n";
