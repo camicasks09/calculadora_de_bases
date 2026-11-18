@@ -6,7 +6,7 @@ int main() {
     int opcao;
 
     do {
-        cout << "\n===== CONVERSOR E CALCULADORA DE BASES =====\n";
+        cout << "\n===== Conversor de bases =====\n";
         cout << "1 - Converter numero entre bases (2 a 16)\n";
         cout << "2 - Calculadora em uma base (2 a 16)\n";
         cout << "0 - Sair\n";
@@ -133,6 +133,6 @@ int main() {
 
     } while (opcao != 0);
 
-    cout << "Encerrando...\n";
+    cout << "Finalizado \n";
     return 0;
 }
