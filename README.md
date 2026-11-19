@@ -1,5 +1,7 @@
 Conversor de Bases Numéricas em C++
 
+Nome: Camila Santos Soares Silva 
+
 1. Introdução
 
 O projeto é uma calculadora programada para conversão de bases. Foi desenvolvida na linguagem C++ e voltada para transformar valores entre as bases binária (2), octal (8), decimal (10) e hexadecimal (16).
